@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #1D8DC2;
+}
+
+/*Elementos del navegador*/
+nav {
+  display: inline-block;
+  background: #147AA7;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+}
+
+#container-menu {
+  color: #fff;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+button {
+  background: #66a3cb;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 15px;
+  height: 30px;
+  padding: 5px;
+  width: 120px;
+}
+
+button:focus{
+  outline: none;
+}
+
+button:hover {
+  opacity: .8;
+}
+
+input {
+  background: #66a3cb;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 15px;
+  height: 20px;
+  padding: 5px;
+  position: relative;
+  width: 200px;
+}
+
+input:focus {
+  outline: none;
+}
+
+input:hover {
+  opacity: .8;
+}
+
+#search{
+  position: absolute;
+  left: 320px;
+  margin-top: 5px;
+}
+
+#logo{
+  height: 40px;
+  opacity: .5;
+  width: 80px;
+  margin-right: 180px;
+  margin-top: 5px;
+}
+
+#i-container {
+  display: inline-block;
+  float: right;
+  margin-top: 0px;
+  margin-right: 5px;
+}
+
+#perfil {
+  background-image: url("../assets/images/laboratoria.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50px;
+  height: 30px;
+  margin:9px;
+  width: 30px;
+}
+
+.icon {
+  display: inline-block;
+  font-size: 20px;
+  height: 30px;
+  width: 30px;
+}
+
+.clear {
+  clear: both;
+}
+
+/*Primera sección */
+article {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  height: 20px;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+
+a {
+  color: #fff;
+  margin-top: px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+#btn {
+  background: inherit;
+  color: #fff;
+  display: inline-block;
+  float: right;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  margin: 0 10px 0 0;
+  width: 200px;
+}
+
+/*Segunda sección*/
+section {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  height: 100%;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+
+.list {
+  border: none;
+  border-radius: 5%;
+  background-color:#0064a4;
+  font-size: 14px;
+  height: 30px;
+}
+
+.list::placeholder{
+  color: #fff;
+}
