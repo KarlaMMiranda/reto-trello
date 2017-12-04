@@ -14,3 +14,5 @@
 ![Diagrama Maquetado](assets/images/maquetado.jpg)
 
 ## SEGUNDA PARTE: CREANDO UN SITIO INTERACTIVO CON JS
+
+<a href="https://ibb.co/eTnMnw"><img src="https://image.ibb.co/iKGE7w/flujo_trello.jpg" alt="flujo_trello" border="0"></a>
