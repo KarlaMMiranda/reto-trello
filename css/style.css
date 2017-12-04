@@ -102,7 +102,7 @@ input:hover {
   clear: both;
 }
 
-/*Primera sección */
+/*Primer elemento */
 article {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   height: 20px;
@@ -129,7 +129,7 @@ a {
   width: 200px;
 }
 
-/*Segunda sección*/
+/*Segunda elemento*/
 section {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   height: 100%;
