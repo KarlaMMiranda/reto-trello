@@ -9,11 +9,7 @@
 1. El archivo HTML se encuentra enlazado con su hoja de estilos en el archivo style.css.
 2. El archivo HTML se encuentra enlazado con las fuentes necesarias a utilizar (Google Fonts).
 3. El archivo HTML se encuentra enlazado con la libreria de iconos a utilizar.
-4. El archivo HTML cuenta con tres elementos principales: un navegador, un article y un section.
-5. Cada elemento cuenta con los atributos correspondientes:
-   a) El navegador está compuesto por un div llamado  container-menu, el cual tiene un botón y un input.
-   b) El article esta formado por tres links (a) y un boton, todos con los iconos correspondientes.
-   c) El section cuenta con un formulario y un imput.
+
 
 ![Diagrama Maquetado](assets/images/maquetado-trello.jpg)
 

@@ -29,7 +29,7 @@ button {
   font-size: 15px;
   height: 30px;
   padding: 5px;
-  width: 120px;
+  width: 150px;
 }
 
 button:focus{
@@ -127,6 +127,72 @@ a {
   text-decoration: underline;
   margin: 0 10px 0 0;
   width: 200px;
+}
+th: 200px;
+}
+
+.list {
+  border: none;
+  border-radius: 5%;
+  background-color:#0064a4;
+  font-size: 14px;
+  height: 30px;
+  position: relative;
+  text-align: left;
+  width: 300px;
+}
+.save {
+  width: 60px;
+}
+.container-text{
+  background: #e2e4e6;
+  display: inline-block;
+  height: 80px;
+  position: absolute;
+  text-align: center;
+  bottom: 77%;
+  width: 300px;
+}
+.input-container{
+  background: #d6d8da;
+  border: solid 1px #aaaaaa;
+  color: #000;
+  height: 20px;
+  margin-top:5px;
+  width: 284px;
+}
+.btn-send{
+    background: #389F3C;
+    display: inline-block;
+    float: left;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 65px;
+}
+.btn-close{
+    background: #e2e4e6;
+    color: #aaaaaa;
+    display: inline-block;
+    float: left;
+    font-size: 20px;
+    height: 20px;
+    margin-top: 8px;
+    width: 30px;
+}
+
+.listTarjet {
+  background: #E2E4E6;
+  width: 302px;
+}
+
+.listTarjet > p {
+  background: #E2E4E6;
+}
+
+.listTarjet > a {
+  color: #616262;
+  display: block;
 }
 
 /*Segunda elemento*/
