@@ -15,7 +15,7 @@
    b) El article esta formado por tres links (a) y un boton, todos con los iconos correspondientes.
    c) El section cuenta con un formulario y un imput.
 
-![Diagrama Maquetado](assets/images/maquetado.jpg)
+![Diagrama Maquetado](assets/images/maquetado-trello.jpg)
 
 ## SEGUNDA PARTE: CREANDO UN SITIO INTERACTIVO CON JS
 1. El archivo HTML se encuentra enlazado con el archivo app.js, las funciones corren de forma correcta.
